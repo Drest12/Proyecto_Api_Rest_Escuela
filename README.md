@@ -1,2 +1,2 @@
 # Api_Escuela
-Proyecto Rest de una Escuela
+API REST para una escuela utilizando Spring Boot, DevTools y MySQL. El objetivo del proyecto es desarrollar una API que permita a los usuarios acceder a información relevante de la escuela.Para el desarrollo de la API se utilizarán las herramientas proporcionadas por Spring Boot y DevTools, con el fin de agilizar el proceso de creación y simplificar la gestión del proyecto. Además, se integrará una base de datos en MySQL para almacenar y administrar los datos de la escuela de manera eficiente.
